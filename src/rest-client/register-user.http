@@ -1,0 +1,8 @@
+GET http://localhost:5005/api/auth/register
+Content-Type: application/json
+
+{
+    "name":"Harish",
+    "email":"harish00411@gmail.com",
+    "password":"harish"
+}
